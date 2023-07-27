@@ -23,7 +23,7 @@ To compile and run any program using Visual Studio, follow these steps:
 6. Build the project to generate the executable.
 7. Run the compiled executable from Visual Studio.
 
-## List of Programs & 
+## List of Programs & Output Screenshots
 
 1. **WAP in C to draw a circle**
 
